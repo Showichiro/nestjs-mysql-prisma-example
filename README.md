@@ -5,6 +5,7 @@
 
 2. In a dev container
 ```
+mv .env-example .env
 npm i
 npx prisma migrate dev
 npm run start:dev

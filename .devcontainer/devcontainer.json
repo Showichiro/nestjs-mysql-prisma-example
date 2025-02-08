@@ -9,7 +9,8 @@
 		"vscode": {
 			"extensions": [
 				"Prisma.prisma",
-				"esbenp.prettier-vscode"
+				"esbenp.prettier-vscode",
+				"ms-azuretools.vscode-docker"
 			],
 			"settings": {
 				"editor.defaultFormatter": "esbenp.prettier-vscode"
